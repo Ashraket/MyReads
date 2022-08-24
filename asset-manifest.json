@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ashraket/MyReads.git/static/css/main.917734d7.chunk.css",
+    "main.js": "/Ashraket/MyReads.git/static/js/main.d38780a5.chunk.js",
+    "main.js.map": "/Ashraket/MyReads.git/static/js/main.d38780a5.chunk.js.map",
+    "runtime-main.js": "/Ashraket/MyReads.git/static/js/runtime-main.95bce415.js",
+    "runtime-main.js.map": "/Ashraket/MyReads.git/static/js/runtime-main.95bce415.js.map",
+    "static/js/2.ef7ee58f.chunk.js": "/Ashraket/MyReads.git/static/js/2.ef7ee58f.chunk.js",
+    "static/js/2.ef7ee58f.chunk.js.map": "/Ashraket/MyReads.git/static/js/2.ef7ee58f.chunk.js.map",
+    "index.html": "/Ashraket/MyReads.git/index.html",
+    "static/css/main.917734d7.chunk.css.map": "/Ashraket/MyReads.git/static/css/main.917734d7.chunk.css.map",
+    "static/js/2.ef7ee58f.chunk.js.LICENSE.txt": "/Ashraket/MyReads.git/static/js/2.ef7ee58f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ashraket/MyReads.git/static/media/arrow-drop-down.4378492a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95bce415.js",
+    "static/js/2.ef7ee58f.chunk.js",
+    "static/css/main.917734d7.chunk.css",
+    "static/js/main.d38780a5.chunk.js"
+  ]
+}
